@@ -24,6 +24,7 @@ So , what we did ?
         1)  made a singleton class that encapsulates RequestQueue and other Volley functionality.
         2) in JSONObjectrequest we are getting desired info among all the info's from the url.
 
-
-        a) add implementation in built.gradle(app level)
-        b) add Internet permission in menifest file
+    * Common points
+        1) add implementation in built.gradle(app level)
+        2) add Internet permission in menifest file
+       
